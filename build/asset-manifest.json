@@ -1,0 +1,14 @@
+{
+  "main.css": "/tabs/build/static/css/main.9981229b.chunk.css",
+  "main.js": "/tabs/build/static/js/main.64921c3c.chunk.js",
+  "main.js.map": "/tabs/build/static/js/main.64921c3c.chunk.js.map",
+  "runtime~main.js": "/tabs/build/static/js/runtime~main.61ba6392.js",
+  "runtime~main.js.map": "/tabs/build/static/js/runtime~main.61ba6392.js.map",
+  "static/js/2.5bf9b2cd.chunk.js": "/tabs/build/static/js/2.5bf9b2cd.chunk.js",
+  "static/js/2.5bf9b2cd.chunk.js.map": "/tabs/build/static/js/2.5bf9b2cd.chunk.js.map",
+  "index.html": "/tabs/build/index.html",
+  "precache-manifest.b4660697d9c4e8ede5adfeb0ac2a0367.js": "/tabs/build/precache-manifest.b4660697d9c4e8ede5adfeb0ac2a0367.js",
+  "service-worker.js": "/tabs/build/service-worker.js",
+  "static/css/main.9981229b.chunk.css.map": "/tabs/build/static/css/main.9981229b.chunk.css.map",
+  "static/media/logo.svg": "/tabs/build/static/media/logo.5d5d9eef.svg"
+}
